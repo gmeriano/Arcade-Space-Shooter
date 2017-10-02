@@ -27,7 +27,7 @@ public class Player {
 		bullet.x = getX() + 23;
 		bullet.y = getY() - 50;
 	}
-	
+	//hi
 	public void Draw() {
 		DrawQuadTex(texture, x, y, width, height);
 	}
